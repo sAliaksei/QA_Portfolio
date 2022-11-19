@@ -1,0 +1,22 @@
+{
+  "ID":"3",
+  "Title":"Disabling the Internet during putting a puzzle together",
+  "Steps":
+  {
+    "1":"Tap any previously unselected puzzle",
+    "2":"Select any number of pieces and press the Start button.",
+    "3":"Turn off the Internet",
+    "4":"Put the puzzle together",
+    "5":"Tap the More puzzles button",
+    "6":"Turn on the internet"
+  },
+  "Expected result":
+  {
+    "1":"The Select number of pieces menu appears",
+    "2":"The puzzle collection menu appears after the advertisement is played",
+    "3":"The app continues to work",
+    "4":"The pop-up window Well done! appears",
+    "5":"Main menu appears. Progress of the completed puzzle is 100%. The user received the number of coins according to the conditions. After that a modal window appears and it cannot be closed while the internet is off",
+    "6":"The modal window disappears"
+  },
+}
