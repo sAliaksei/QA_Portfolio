@@ -1,0 +1,20 @@
+ID: 
+2
+
+Title:
+Putting together an unfinished puzzle
+
+Preconditions:
+There is an unfinished puzzle
+
+Steps:
+1. Tap an unfinished puzzle.
+2. Tap the "Continue" button.
+3. Put the puzzle together.
+4. Tap the "More puzzles" button.
+
+Expected result:
+1. The pop-up window appears with the following text "The unfinished puzzle will be lost if you start a new game".
+2. The puzzle collection menu appears after the advertisement is played. Pieces of the puzzle are located where they were placed by the user.
+3. The pop-up window "Well done!" appears.
+4. Main menu appears after watching advertisements. Progress of the completed puzzle is 100%. The user received the number of coins according to the conditions.
