@@ -1,0 +1,24 @@
+ID: 
+1
+
+Title:
+Puzzle migration between application versions
+
+Preconditions:
+There are several unfinished and finished puzzles
+
+Steps:
+1. Update the application from the previous version to the latest version.
+2. Run the app.
+3. Tap any unfinished puzzle.
+4. Tap the "Continue" button.
+5. Put the puzzle together.
+6. Tap the "More puzzles" button.
+
+Expected result:
+1. The update successfully completed.
+2. The main menu is opened. All information is successfully saved (coins, unfinished and finished puzzles).
+3. The pop-up window appears with the following text "The unfinished puzzle will be lost if you start a new game".
+4. The puzzle collection menu appears after the advertisement is played. Pieces of the puzzle are located where they were placed by the user.
+5. The pop-up window "Well done!" appears.
+6. Main menu appears after watching advertisements. Progress of the completed puzzle is 100%. The user received the number of coins according to the conditions.

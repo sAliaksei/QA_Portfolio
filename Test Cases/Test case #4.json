@@ -1,0 +1,18 @@
+{
+  "ID":"4",
+  "Title":"Putting a puzzle together",
+  "Steps":
+  {
+    "1":"Tap any previously unselected puzzle",
+    "2":"Select any number of pieces and press the Start button",
+    "3":"Put the puzzle together",
+    "4":"Tap the More puzzles button"
+  },
+  "Expected result":
+  {
+    "1":"The Select number of pieces menu appears",
+    "2":"The puzzle collection menu appears after the advertisement is played. The selected number of pieces should be shown",
+    "3":"The pop-up window Well done! appears",
+    "4":"Main menu appears after watching advertisements. Progress of the completed puzzle is 100%. The user received the number of coins according to the conditions"
+  },
+}
