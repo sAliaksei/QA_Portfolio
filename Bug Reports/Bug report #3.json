@@ -1,0 +1,17 @@
+{
+  "Bug_id":"3",
+  "Summary":"Black screen occasionally appears instead of ads",
+  "Priority":"Medium",
+  "Module":"Advertisement",
+  "Steps to reproduce":
+  {
+    "1":"Tap the More exercises button",
+    "2":"Run the game 2048",
+    "3":"Make a few swipes",
+    "4":"Tap the Back button and then tap Watch a video"
+  },
+  "Expected result":"The ads are shown",
+  "Actual result":"Black screen appears instead of ads",
+  "Reproducibility":"Rarely",
+  "Attachments":"video_file.mp4"
+}

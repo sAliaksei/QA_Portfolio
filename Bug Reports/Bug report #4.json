@@ -1,0 +1,17 @@
+{
+  "Bug_id":"4",
+  "Summary":"Notification bar doesn't appear if a pop up window is open in 2048",
+  "Priority":"Medium",
+  "Module":"2048",
+  "Steps to reproduce":
+  {
+    "1":"Tap the More exercises button",
+    "2":"Run the game 2048",
+    "3":"Tap the Back button",
+    "4":"Open the notification bar"
+  },
+  "Expected result":"Notification bar appears",
+  "Actual result":"Notification bar doesn't appear",
+  "Reproducibility":"Always",
+  "Attachments":"video_file.mp4"
+}

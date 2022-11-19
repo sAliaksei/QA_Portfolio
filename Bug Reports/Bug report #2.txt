@@ -1,0 +1,29 @@
+ID: 
+2
+
+Title:
+The best result is not saved if you tap the back button in the navigation bar
+
+Module:
+Power memo
+
+Preconditions:
+-
+
+Steps:
+1. Tap the 'More exercises' button.
+2. Run Power memo.
+3. Play a few rounds.
+4. Tap the back button in the navigation bar.
+
+Actual result:
+The best result is not saved
+
+Expected result:
+The best result is saved
+
+Reproducibility:
+Always
+
+Attachments
+video_file.mp4
